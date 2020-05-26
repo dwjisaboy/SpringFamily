@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "target.string",
+      "type": "wenjie.deng.myboot.AutoConfigurationProperties",
+      "sourceType": "wenjie.deng.myboot.AutoConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "target.string.target",
+      "type": "java.lang.String",
+      "sourceType": "wenjie.deng.myboot.AutoConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
